@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=JAVA7\SQLEXPRESS; Database=Pub; Trusted_Connection=True; Encrypt=false; TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
